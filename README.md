@@ -19,3 +19,4 @@ import torch
 array1 = np.array([3,2,1])
 tensor2 = torch.from_numpy(array1)
 ```
+## Simple Neural Network in PyTorch
